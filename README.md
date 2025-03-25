@@ -40,10 +40,10 @@
 
 ## 🎓 **About My Final Degree Project (TFG)**  
 <p align="center">
-✅ **Infrastructure as Code (IaC) with Terraform**<br>
-✅ **Kubernetes (EKS) for orchestration**<br>
-✅ **CI/CD Pipelines (Jenkins/GitHub Actions)**<br>
-✅ **Cloud-native solutions on AWS**  
+✅ Infrastructure as Code (IaC) with Terraform<br>
+✅ Kubernetes (EKS) for orchestration<br>
+✅ CI/CD Pipelines (Jenkins/GitHub Actions)<br>
+✅ Cloud-native solutions on AWS* 
 </p>
 
 
