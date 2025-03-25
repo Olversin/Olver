@@ -35,7 +35,7 @@
 
 ## 📊 **GitHub Stats**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Olversin&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&text_color=58a6ff&icon_color=58a6ff&title_color=58a6ff&border_radius=15&include_all_commits=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Olversin&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&text_color=58a6ff&icon_color=58a6ff&title_color=58a6ff&border_radius=15" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olversin&layout=compact&theme=radical&hide_border=true&bg_color=00000000&text_color=58a6ff&title_color=58a6ff&border_radius=15" width="45%">
 </p>
 
@@ -43,31 +43,13 @@
 <p align="center">
   <div style="background: linear-gradient(135deg, #161b22 0%, #0d1117 100%); padding: 20px; border-radius: 15px; width: 80%; margin: 0 auto;">
     <h3 style="color: #58a6ff; margin-bottom: 15px;">TFG Highlights</h3>
-    <ul style="text-align: left; color: #c9d1d9; font-size: 16px; line-height: 1.6;">
+    <ul style="text-align: left; color: #c9d1d9; font-size: 16px; line-height: 1.6; padding-left: 20px;">
       <li>✅ <strong>Infrastructure as Code (IaC)</strong> with Terraform</li>
       <li>✅ <strong>Container Orchestration</strong> with Kubernetes (EKS)</li>
       <li>✅ <strong>CI/CD Pipelines</strong> using Jenkins/GitHub Actions</li>
       <li>✅ <strong>Cloud-native solutions</strong> on AWS</li>
     </ul>
   </div>
-</p>
-
-## 🌟 **Featured Projects**
-<p align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <a href="#">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Olversin&repo=your-repo&theme=radical&border_radius=15&show_owner=true" width="100%">
-        </a>
-      </td>
-      <td width="50%">
-        <a href="#">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Olversin&repo=your-repo2&theme=radical&border_radius=15&show_owner=true" width="100%">
-        </a>
-      </td>
-    </tr>
-  </table>
 </p>
 
 ## 📫 **Let's Connect**  
