@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy **Olvre**  
+# ¡Hola! 👋 Soy **Olver**  
 
 🎓 **Estudiante de Ingeniería Informática Administrativa** en la [UPSA](https://www.upsa.edu.bo)  
 🚀 **Desarrollador en formación | Cloud & DevOps Enthusiast**  
@@ -27,9 +27,9 @@
 
 ## 📊 **Estadísticas de GitHub**  
 
-![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=Olvre&show_icons=true&theme=radical&hide_border=true)  
+![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=Olversin&show_icons=true&theme=radical&hide_border=true)  
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Olvre&layout=compact&theme=radical&hide_border=true)  
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Olversin&layout=compact&theme=radical&hide_border=true)  
 
 ## 🎓 **Sobre mi TFG**  
 Actualmente desarrollo mi **Trabajo Final de Grado (TFG)** enfocado en:  
