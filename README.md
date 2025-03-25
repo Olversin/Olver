@@ -41,15 +41,7 @@
 
 ## 🎓 **About My Final Degree Project (TFG)**  
 <p align="center">
-  <div style="background: linear-gradient(135deg, #161b22 0%, #0d1117 100%); padding: 20px; border-radius: 15px; width: 80%; margin: 0 auto;">
-    <h3 style="color: #58a6ff; margin-bottom: 15px;">TFG Highlights</h3>
-    <ul style="text-align: left; color: #c9d1d9; font-size: 16px; line-height: 1.6; padding-left: 20px;">
-      <li>✅ <strong>Infrastructure as Code (IaC)</strong> with Terraform</li>
-      <li>✅ <strong>Container Orchestration</strong> with Kubernetes (EKS)</li>
-      <li>✅ <strong>CI/CD Pipelines</strong> using Jenkins/GitHub Actions</li>
-      <li>✅ <strong>Cloud-native solutions</strong> on AWS</li>
-    </ul>
-  </div>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%E2%9C%85+Infrastructure+as+Code+(IaC);%E2%9C%85+Kubernetes+(EKS)+Orchestration;%E2%9C%85+CI%2FCD+Pipelines;%E2%9C%85+Cloud-native+solutions" alt="TFG Features">
 </p>
 
 ## 📫 **Let's Connect**  
